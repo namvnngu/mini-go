@@ -1,6 +1,6 @@
 # mini-go
 
-The projects are listed in ascending chronological order:
+The [Go](https://go.dev) projects are listed in ascending chronological order:
 
 1. [Hello World](./helloworld)
 
