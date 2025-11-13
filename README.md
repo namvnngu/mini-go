@@ -5,4 +5,4 @@ purposes:
 
 1. [Hello World](./helloworld)
 
-The repository is under [UNLICENSE](https://unlicense.org).
+The repository is under [MIT License](./LICENSE).
